@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project analyzes Spotify track data using:
 - Python (Data Cleaning & EDA)
-- SQL (Data extraction)
+- SQL (Data analysis)
 - Power BI (Visualization)
 
 ## 📂 Project Structure
