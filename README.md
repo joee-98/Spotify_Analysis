@@ -7,8 +7,8 @@ This project analyzes Spotify track data using:
 - Power BI (Visualization)
 
 ## 📂 Project Structure
-- notebooks/ → Jupyter notebooks
-- sql/ → SQL scripts
+- notebooks/ → MySQL analysis queries and insights
+- sql/ → MySQL analysis queries and insights
 - powerbi/ → Dashboard files
 
 ## 📊 Key Highlights
