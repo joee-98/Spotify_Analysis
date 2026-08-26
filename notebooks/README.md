@@ -40,4 +40,4 @@ Tools Used
 ---
 
 Next Step  
-The cleaned dataset is used for SQL analysis to derive business insights.
+The cleaned dataset is used for SQL analysis to explore music trends, popularity, genres, artists, and audio features.
