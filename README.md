@@ -20,16 +20,19 @@ An end-to-end data analysis project using **Python, SQL, and Power BI** to explo
 Spotify_Analysis/
 │
 ├── notebooks/
-│   ├── Spotify_Analysis.ipynb
-│   └── README.md
-│
-├── sql/
-│   ├── spotify_analysis.sql
-│   └── README.md
-│
-├── powerbi/
-│   ├── Spotify_Music_Analytics.pbix
-│   └── README.md
+│   │
+│   ├── Python/
+│   │   ├── Python_README.md
+│   │   ├── Spotify_Data_Cleaning.ipynb
+│   │   └── Spotify_Final_Clean.csv
+│   │
+│   ├── SQL/
+│   │   ├── SQL_README.md
+│   │   └── Spotify_Analysis.sql
+│   │
+│   └── Power BI Dashboard/
+│       ├── PowerBI_README.md
+│       └── Spotify Dashboard.pbix
 │
 └── README.md
 ```
