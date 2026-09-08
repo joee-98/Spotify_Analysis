@@ -8,9 +8,9 @@ An end-to-end data analysis project using **Python, SQL, and Power BI** to explo
 
 **Python → SQL → Power BI**
 
--  **Python** — Data Cleaning, EDA & Analysis
--  **SQL** — Data Querying & Analysis
--  **Power BI** — Interactive Visualization & Dashboard
+- 🐍 **Python** — Data Cleaning, EDA & Analysis
+- 🗄️ **SQL** — Data Querying & Analysis
+- 📊 **Power BI** — Interactive Visualization & Dashboard
 
 ---
 
@@ -32,12 +32,22 @@ Spotify_Analysis/
 │   └── README.md
 │
 └── README.md
+```
 
 ---
 
 ## 🛠️ Tools
 
-**Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | MySQL Workbench | Power BI | Power Query | DAX**
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **MySQL**
+- **MySQL Workbench**
+- **Power BI**
+- **Power Query**
+- **DAX**
 
 ---
 
