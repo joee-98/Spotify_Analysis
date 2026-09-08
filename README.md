@@ -32,3 +32,15 @@ Spotify_Analysis/
 │   └── README.md
 │
 └── README.md
+
+---
+
+## 🛠️ Tools
+
+**Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | MySQL Workbench | Power BI | Power Query | DAX**
+
+---
+
+## 👤 Author
+
+**Joshua Stanley**
