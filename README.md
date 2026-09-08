@@ -1,17 +1,34 @@
-# 🎧 Spotify Data Analysis Project
+# 🎧 Spotify Data Analysis
 
 ## 📌 Overview
-This project analyzes Spotify track data using:
-- Python (Data Cleaning & EDA)
-- SQL (Data analysis)
-- Power BI (Visualization)
+
+An end-to-end data analysis project using **Python, SQL, and Power BI** to explore Spotify track data and uncover meaningful insights.
+
+### 🔄 Workflow
+
+**Python → SQL → Power BI**
+
+-  **Python** — Data Cleaning, EDA & Analysis
+-  **SQL** — Data Querying & Analysis
+-  **Power BI** — Interactive Visualization & Dashboard
+
+---
 
 ## 📂 Project Structure
-- notebooks/ → MySQL analysis queries and insights
-- sql/ → MySQL analysis queries and insights
-- powerbi/ → Dashboard files
 
-## 📊 Key Highlights
-- Cleaned and processed dataset
-- Performed exploratory data analysis
-- Built insights on music trends
+```text
+Spotify_Analysis/
+│
+├── notebooks/
+│   ├── Spotify_Analysis.ipynb
+│   └── README.md
+│
+├── sql/
+│   ├── spotify_analysis.sql
+│   └── README.md
+│
+├── powerbi/
+│   ├── Spotify_Music_Analytics.pbix
+│   └── README.md
+│
+└── README.md
